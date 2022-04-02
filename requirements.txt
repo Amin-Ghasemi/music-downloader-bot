@@ -1,0 +1,5 @@
+pyrogram
+pytube
+tgcrypto
+speedtest-cli
+requests
